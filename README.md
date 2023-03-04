@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **prisma.**
 
-- 💬 Ask me about **node js, MySql**
+- 💬 Ask me about **node js, MySql, C, JS, HTML, CSS, Java and Reactjs**
 
 - 📫 How to reach me **la_abdelkebir@esi.dz**
 
